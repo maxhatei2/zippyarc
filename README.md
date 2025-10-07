@@ -6,7 +6,9 @@ Fast archive Python-made archiver that looks good. Based on zipfile and py7zr.
 Can support:
 - ZIP archive making with compression type choosing
 - 7z/7zip archive making with compression type choosing and volume
+
 Will support:
+
 - Checking files for malware before making archive or when extracting
 - Reading/extracting ZIP/7z
 - Reading RAR
